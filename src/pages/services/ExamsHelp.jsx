@@ -114,7 +114,7 @@ const ExamsHelp = () => {
               No More Exam Stress This Season - We're Here to Help!
             </h1>
             <p className="mb-6 leading-relaxed">
-              Exams can be overwhelming, but you don't have to face them alone. With StudyHelpers, get expert assistance from professionals across various subjects, ensuring top results with ease. Reach out, relax, and let us handle everything with complete confidentiality and around-the-clock support. Plus, our student-friendly rates mean quality help that won't break the bank.
+              Exams can be overwhelming, but you don't have to face them alone. With StudyWellos, get expert assistance from professionals across various subjects, ensuring top results with ease. Reach out, relax, and let us handle everything with complete confidentiality and around-the-clock support. Plus, our student-friendly rates mean quality help that won't break the bank.
             </p>
             <div className="flex justify-start">
               <Button text="Click to Avail Discount" />

@@ -19,11 +19,11 @@ const Footer = () => {
                         {/* LOGO & HEADING */}
                         <div className="sm:col-span-2">
                             <h1 className="max-w-lg flex items-center text-xl font-semibold tracking-tight text-black xl:text-2xl">
-                                <img className='-ml-3 w-12' src="https://cdn.shopify.com/s/files/1/0704/6378/2946/files/aaa.png?v=1713875658" alt="logo" />
-                                StudiesHelpers
+                                <img className='-ml-3 w-12' src="https://cdn.shopify.com/s/files/1/0704/6378/2946/files/studyHelpersLogo.png?v=1736002420" alt="logo" />
+                                StudyWellos
                             </h1>
                             <p className="max-w-md text-[1rem] mt-3">
-                                StudiesHelpers is providing help to students as academic consultants, to resolve their queries, helping them by providing sufficient help in assignments and exams. There are a vast variety of subjects offered by StudiesHelpers through experts.
+                                StudyWellos is providing help to students as academic consultants, to resolve their queries, helping them by providing sufficient help in assignments and exams. There are a vast variety of subjects offered by StudyWellos through experts.
                             </p>
                         </div>
 
@@ -111,7 +111,7 @@ const Footer = () => {
 
                 {/* FOOTER BOTTOM PART  */}
                 <div className="text-sm py-7 px-4 md:px-10 border-t bg-surface text-center text-white">
-                    <p>Copyrights © 2024 All Rights Reserved by StudiesHelpers</p>
+                    <p>Copyrights © 2024 All Rights Reserved by StudyWellos</p>
                 </div>
             </footer>
         </>

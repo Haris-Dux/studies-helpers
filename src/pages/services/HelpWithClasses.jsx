@@ -106,7 +106,7 @@ const HelpWithClasses = () => {
                 Pay an Expert for Online Class Assistance and Improve Your Grades!
               </h2>
               <p className="mb-3 sm:mb-4 text-md sm:text-md w-full sm:max-w-lg font-normal">
-                Are your online classes getting overwhelming? Don’t worry—StudiesHelpers  is here to help! Our experienced tutors and academic specialists provide the support you need to succeed in your coursework.
+                Are your online classes getting overwhelming? Don’t worry—StudyWellos  is here to help! Our experienced tutors and academic specialists provide the support you need to succeed in your coursework.
               </p>
 
               {StudyHelpersData?.map((data, index) => (
@@ -149,7 +149,7 @@ const HelpWithClasses = () => {
               Struggling with Your Online Classes? Let Our Experts Assist!
             </h1>
             <p className="mb-6 leading-relaxed">
-              Managing online coursework can feel daunting, but you don’t have to tackle it on your own. With StudiesHelpers , you gain access to 50+ highly qualified professionals who guide you toward academic excellence. Our team delivers high-quality, plagiarism-free work that meets rigorous academic standards—so say goodbye to deadline anxiety and tough assignments, and embrace expert support for peace of mind. We’ll handle your coursework with care and precision, giving you the freedom to focus on your priorities.
+              Managing online coursework can feel daunting, but you don’t have to tackle it on your own. With StudyWellos , you gain access to 50+ highly qualified professionals who guide you toward academic excellence. Our team delivers high-quality, plagiarism-free work that meets rigorous academic standards—so say goodbye to deadline anxiety and tough assignments, and embrace expert support for peace of mind. We’ll handle your coursework with care and precision, giving you the freedom to focus on your priorities.
             </p>
             <div className="flex justify-start">
               <Button text="Get Your Free Quote Now!" />

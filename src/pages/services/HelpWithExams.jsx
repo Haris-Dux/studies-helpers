@@ -131,7 +131,7 @@ const HelpWithExams = () => {
               No More Exam Worries We're Here for You!
             </h1>
             <p className="mb-6 leading-relaxed">
-              Exams can be daunting, but you don’t have to face them solo. StudiesHelpers connects you with expert guidance and subject-specific support to help you earn top marks with ease. Kick back and let us tailor an approach just for you, complete with total confidentiality and around-the-clock assistance. Plus, our student-friendly pricing makes sure you get quality help without breaking the bank.
+              Exams can be daunting, but you don’t have to face them solo. StudyWellos connects you with expert guidance and subject-specific support to help you earn top marks with ease. Kick back and let us tailor an approach just for you, complete with total confidentiality and around-the-clock assistance. Plus, our student-friendly pricing makes sure you get quality help without breaking the bank.
             </p>
             <div className="flex justify-start">
               <Button text="Chat Now" />

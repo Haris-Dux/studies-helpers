@@ -110,7 +110,7 @@ const HelpWithCourse = () => {
                 Pay an Expert for Online Course Assistance and Elevate Your Grades!
               </h2>
               <p className="mb-3 sm:mb-4 text-md sm:text-md w-full sm:max-w-lg font-normal">
-                Are your online courses feeling overwhelming? Don't stress—Studies Helpers is here with specialized “Take My Online Course” services, backed by years of academic expertise. Our seasoned professionals guide you through each step, from routine lectures to demanding projects, ensuring you excel without sacrificing your peace of mind.
+                Are your online courses feeling overwhelming? Don't stress—StudyWellos is here with specialized “Take My Online Course” services, backed by years of academic expertise. Our seasoned professionals guide you through each step, from routine lectures to demanding projects, ensuring you excel without sacrificing your peace of mind.
               </p>
 
               {StudyHelpersData?.map((data, index) => (
@@ -158,7 +158,7 @@ const HelpWithCourse = () => {
               Struggling with Your Online Courses? Let Our Experts Assist!
             </h1>
             <p className="mb-6 leading-relaxed">
-              Balancing multiple online courses can be challenging. With Studies Helpers, you gain access to top-tier academic specialists who provide comprehensive course management: from attending online sessions and completing assignments to participating in discussions. Our experts tailor their support to your exact needs, delivering high-quality, plagiarism-free work that meets rigorous university standards.
+              Balancing multiple online courses can be challenging. With StudyWellos, you gain access to top-tier academic specialists who provide comprehensive course management: from attending online sessions and completing assignments to participating in discussions. Our experts tailor their support to your exact needs, delivering high-quality, plagiarism-free work that meets rigorous university standards.
             </p>
             <div className="flex justify-start">
               <Button text="Live Chat" />
@@ -213,7 +213,7 @@ const HelpWithCourse = () => {
 
 
       {/* --------------- SECOND CTA SECTION ---------------  */}
-      <CtaTwo heading="Take Your Grades to New Heights with Studies Helpers" text="Order Now" />
+      <CtaTwo heading="Take Your Grades to New Heights with StudyWellos" text="Order Now" />
 
       {/* --------------- FAQ'S ---------------  */}
       <FaqClassCourses />

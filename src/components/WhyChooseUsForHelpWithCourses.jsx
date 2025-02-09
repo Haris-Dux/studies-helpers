@@ -11,7 +11,7 @@ const WhyChooseUsForHelpWithCourses = () => {
                 <div className="max-w-5xl mx-auto py-14">
                     {/* --------------- HEADER TEXT ---------------  */}
                     <h2 className="mb-3 font-bold pl-2 text-3xl md:text-4xl w-[95%] sm:w-[100%] mx-auto text-[#272727] text-start sm:text-center">Why Choose Us</h2>
-                    <p className='w-[90%] sm:w-[80%] lg:w-[65%] mx-auto text-black text-start sm:text-center'>At Studies Helpers, we’re committed to surpassing university and college requirements, ensuring your coursework aligns perfectly with academic criteria.</p>
+                    <p className='w-[90%] sm:w-[80%] lg:w-[65%] mx-auto text-black text-start sm:text-center'>At StudyWellos, we’re committed to surpassing university and college requirements, ensuring your coursework aligns perfectly with academic criteria.</p>
 
 
                     <div className="flex flex-wrap my-10 sm:my-12">
@@ -29,7 +29,7 @@ const WhyChooseUsForHelpWithCourses = () => {
                             <img className='w-12' src={image03} alt="" />
                             <h3 className="mt-2 text-xl">Time Management in Online Learning</h3>
                             <p className="mt-2 text-gray-700 text-sm leading-normal">
-                                Deep comprehension often requires consistent engagement and multiple projects. If you’re balancing work, family, or other responsibilities, Studies Helpers provides a structured, around-the-clock approach to keep you on track without burning out.
+                                Deep comprehension often requires consistent engagement and multiple projects. If you’re balancing work, family, or other responsibilities, StudyWellos provides a structured, around-the-clock approach to keep you on track without burning out.
                             </p>
                         </div>
 
@@ -45,7 +45,7 @@ const WhyChooseUsForHelpWithCourses = () => {
                             <img className='w-12' src={image02} alt="" />
                             <h3 className="mt-2 text-xl">Balancing Work and Studies</h3>
                             <p className="mt-2 text-gray-700 text-sm leading-normal">
-                                If a full-time job leaves you little room to study, count on Studies Helpers for flexible scheduling and full-course management. With our help, meeting professional and academic obligations becomes far more manageable.
+                                If a full-time job leaves you little room to study, count on StudyWellos for flexible scheduling and full-course management. With our help, meeting professional and academic obligations becomes far more manageable.
                             </p>
                         </div>
                     </div>

@@ -24,9 +24,9 @@ const Dummy = () => {
 
                             {/* LOGO & TEXT */}
                             <div className="sm:col-span-2">
-                                <h1 onClick={handleScroll} className="max-w-lg text-3xl cursor-pointer font-semibold tracking-wider text-gray-900">StudiesHelpers</h1>
+                                <h1 onClick={handleScroll} className="max-w-lg text-3xl cursor-pointer font-semibold tracking-wider text-gray-900">StudyWellos</h1>
                                 <p className='mt-5 text-sm w-[100%] sm:w-[70%] text-gray-900'>
-                                    StudiesHelpers is providing help to students as academic consultants, to resolve their queries, helping them by providing sufficient help in assignments and exams. There are a vast variety of subjects offered by StudiesHelpers through experts.
+                                    StudyWellos is providing help to students as academic consultants, to resolve their queries, helping them by providing sufficient help in assignments and exams. There are a vast variety of subjects offered by StudyWellos through experts.
                                 </p>
                             </div>
 
@@ -40,7 +40,7 @@ const Dummy = () => {
                                         Phone: +1 (716) 374-9747
                                     </a>
                                     <a className="text-gray-900 transition-colors duration-300 cursor-pointer hover:underline hover:text-blue-500">
-                                        Mail: support@StudyHelpers.com
+                                        Mail: support@studywello.com
                                     </a>
                                     <a className="text-gray-900 transition-colors duration-300 cursor-pointer hover:underline hover:text-blue-500">
                                         Location: 405 Elaine Valley Dr Katy TX 77493
@@ -97,7 +97,7 @@ const Dummy = () => {
                 </div>
 
                 <div className="text-sm py-5 border-t text-center text-white">
-                    <p>Copyrights © 2024 All Rights Reserved by StudiesHelpers</p>
+                    <p>Copyrights © 2024 All Rights Reserved by StudyWellos</p>
                 </div>
             </footer>
         </>

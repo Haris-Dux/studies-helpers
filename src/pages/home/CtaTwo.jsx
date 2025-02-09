@@ -3,7 +3,7 @@ import { LuMessagesSquare } from "react-icons/lu";
 import { FaArrowRightLong } from "react-icons/fa6";
 
 const CtaTwo = ({
-    heading = "Take Your Grades to the Next Level with StudiesHelpers",
+    heading = "Take Your Grades to the Next Level with StudyWellos",
     text
 }) => {
     return (
