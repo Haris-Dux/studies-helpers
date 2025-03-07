@@ -79,7 +79,7 @@ const Header = () => {
                 alt="logo"
               />
               <h2 className="poppins text-gray-800 dark:text-gray-200 text-xl font-semibold">
-                StudyWellos
+                StudiesHelpers
               </h2>
             </Link>
 

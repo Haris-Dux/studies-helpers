@@ -49,7 +49,7 @@ const HomePage = () => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>
-          StudyWellos: Academic Writing Services | Online Help with Money Back
+          StudiesHelpers: Academic Writing Services | Online Help with Money Back
           Guarantee
         </title>
       </Helmet>
@@ -159,7 +159,7 @@ const HomePage = () => {
       {/* --------------- CTA SECTION ---------------  */}
       <CtaOneV2
         mainHeading="Eliminate Grade Stress - Invest in Expert Academic Support Today"
-        subHeading="Partner with StudyWellos  to aim for top results through professional guidance. A small step leads to significant academic gains."
+        subHeading="Partner with StudiesHelpers  to aim for top results through professional guidance. A small step leads to significant academic gains."
         buttonText="Chat Now"
       />
 
